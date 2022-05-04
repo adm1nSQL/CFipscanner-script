@@ -18,3 +18,6 @@ HOW TO USE?
   > Enter  
   done.
   
+
+**[CF直链中转]（https://proxy.freecdn.workers.dev/）**
+====================================================
