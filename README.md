@@ -1,4 +1,4 @@
-**cloudflare ip-scan script**  
+**cloudflare IP scan script**  
 
 </br>  
 
