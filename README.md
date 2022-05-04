@@ -19,4 +19,4 @@ HOW TO USE?
   done.
   
 
-**[CF直链中转]（https://proxy.freecdn.workers.dev/）**
+[CF直链中转]（https://proxy.freecdn.workers.dev/）
