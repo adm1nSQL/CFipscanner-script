@@ -15,4 +15,4 @@ How to use it?
   
 </br> 
 
-Program from [ip-scanner](https://github.com/ip-scanner/cloudflare)
+Program from [@ip-scanner](https://github.com/ip-scanner/cloudflare)
