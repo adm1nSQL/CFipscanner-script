@@ -11,7 +11,7 @@ HOW TO USE?
 
 
   
-  > ENTER  
-  > ENTER  
+  > Enter  
+  > Enter  
   done.
   
