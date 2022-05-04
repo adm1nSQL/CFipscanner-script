@@ -13,8 +13,7 @@ How to use it?
   > Enter  
   done.
   
-
-[CF直链中转](https://proxy.freecdn.workers.dev/)    
+ 
   
     
       
