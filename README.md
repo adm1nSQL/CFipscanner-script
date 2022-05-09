@@ -8,17 +8,15 @@ How to use it?
   
 
 
-  
   > Enter  
   > Enter  
-  done.
-  
+  done. 
 </br> 
 
 2022-05-09
 ---------------------------------
 script renew, new workers domain
 
-</br>
+</br></br>
 
 Program from [@ip-scanner](https://github.com/ip-scanner/cloudflare)
