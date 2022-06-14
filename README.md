@@ -1,6 +1,6 @@
 **cloudflare IP scan script**  
 
-The second method is recommended.(iptest.sh)
+The best method is iptest.sh
 
 </br>  
 
