@@ -45,4 +45,4 @@ https://user-images.githubusercontent.com/58238284/173506112-6ec3d0f3-e0f5-4ffb-
 
 </br></br>
 
-Program from [@ip-scanner](https://github.com/ip-scanner/cloudflare)
+Program from [@CF transfer ]([https://t.me/CF_NAT)
