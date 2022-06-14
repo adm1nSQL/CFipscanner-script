@@ -1,5 +1,7 @@
 **cloudflare IP scan script**  
 
+The second method is recommended.(iptest.sh)
+
 </br>  
 
 How to use it?(cfipscanner.sh)
