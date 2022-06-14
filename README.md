@@ -13,6 +13,8 @@ How to use it?(cfipscanner.sh)
   done. 
 </br> 
 </br>
+
+
 How to use it?(iptest.sh)
 =================================================================================================================================
     wget -N --no-check-certificate https://raw.githubusercontent.com/adm1nSQL/CFipscanner-script/main/iptest.sh && bash iptest.sh
