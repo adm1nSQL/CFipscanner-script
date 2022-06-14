@@ -39,6 +39,7 @@ script renew, new workers domain
 ---------------------------------
 1.优化了进程控制逻辑</br>
 2.整合“github.com/ip-scanner/cloudflare”日更数据与原有的“iptestlite.sh的功能”</br>
+Integrates 'github.com/ip-scanner/cloudflare' data and cfipscanner.sh functions
 3.优化了真实IP检测逻辑
 
 https://user-images.githubusercontent.com/58238284/173506112-6ec3d0f3-e0f5-4ffb-bb8c-b31dfd1ee562.mp4
