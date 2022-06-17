@@ -37,7 +37,7 @@ script renew, new workers domain
 
 2022-06-14
 ---------------------------------
-Integrates [@ip-scanner](github.com/ip-scanner/cloudflare) data and cfipscanner.sh functions
+Integrates [@ip-scanner](https://github.com/ip-scanner/cloudflare) data and cfipscanner.sh functions
 
 
 https://user-images.githubusercontent.com/58238284/173506112-6ec3d0f3-e0f5-4ffb-bb8c-b31dfd1ee562.mp4
@@ -45,4 +45,4 @@ https://user-images.githubusercontent.com/58238284/173506112-6ec3d0f3-e0f5-4ffb-
 
 </br></br>
 
-Program from tg [@CF transfer IP](https://t.me/CF_NAT)
+Program from tg [@CF_NAT]
